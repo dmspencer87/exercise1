@@ -1,6 +1,15 @@
-/**
- * Created by Spencer on 9/28/2017.
- */
+/************************************************************************************
+ *	file: EchoClient.java
+ *	author: Daniel Spencer
+ *	class: CS 380 - computer networks
+ *
+ *	assignment: exercise 1
+ *	date last modified: 9/282017
+ *
+ *	purpose:   simple server and cliant programs
+ *
+ *
+ ************************************************************************************/
 
 import java.io.*;
 import java.net.Socket;
